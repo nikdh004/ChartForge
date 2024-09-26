@@ -16,13 +16,6 @@
 
 ## 📦 Installation
 
-Install via pip:
-bash
-pip install chartforge
-
-## For development, clone the repository:
-git clone https://github.com/your-username/chartforge.git
-cd chartforge
-python setup.py install
+Work in progress
 
  
