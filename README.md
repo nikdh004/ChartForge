@@ -1,6 +1,6 @@
 # 📊 ChartForge - Forge Powerful, Custom Data Visualizations
 
-![ChartForge Logo](https://user-images.githubusercontent.com/123456789/chartforge_logo.png)
+![ChartForge Logo](https://www.clipartmax.com/png/small/190-1906664_graph-icon-bar-logo-property-value-chart-icon.png)
 
 **ChartForge** is an open-source data visualization library designed to help you create stunning, custom visualizations with ease and precision. Whether you need simple charts or complex interactive visuals, ChartForge provides the flexibility and power to shape your data into impactful insights.
 
